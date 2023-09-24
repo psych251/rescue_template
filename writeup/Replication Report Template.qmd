@@ -15,6 +15,10 @@ format:
 [No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
 
 
+## Summary of prior replication attempt
+
+Based on the prior write-up, describe any differences between the original and 1st replication in terms of methods, sample, sample size, and analysis. Note any potential problems such as exclusion rates, noisy data, or issues with analysis. 
+
 ## Methods
 
 ### Power Analysis
@@ -33,13 +37,18 @@ All materials - can quote directly from original article - just put the text in 
 
 Can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
 
+### Controls
+
+What attention checks, positive or negative controls, or other quality control measures are you adding so that a (positive or negative) result will be more interpretable?
+
+
 ### Analysis Plan
 
 Can also quote directly, though it is less often spelled out effectively for an analysis strategy section.  The key is to report an analysis strategy that is as close to the original - data cleaning rules, data exclusion rules, covariates, etc. - as possible.  
 
 **Clarify key analysis of interest here**  You can also pre-specify additional analyses you plan to do.
 
-### Differences from Original Study
+### Differences from Original Study and 1st replication
 
 Explicitly describe known differences in sample, setting, procedure, and analysis plan from original study.  The goal, of course, is to minimize those differences, but differences will inevitably occur.  Also, note whether such differences are anticipated to make a difference based on claims in the original article or subsequent published research on the conditions for obtaining the effect.
 
@@ -73,6 +82,10 @@ Data preparation following the analysis plan.
 #### Prepare data for analysis - create columns etc.
 ```
 
+### Results of control measures
+
+How did people perform on any quality control checks or positive and negative controls? 
+
 ### Confirmatory analysis
 
 The analyses as specified in the analysis plan.  
@@ -84,6 +97,9 @@ The analyses as specified in the analysis plan.
 Any follow-up analyses desired (not required).  
 
 ## Discussion
+
+## Mini meta analysis
+Combining across the original paper, 1st replication, and 2nd replication, what is the aggregate effect size? 
 
 ### Summary of Replication Attempt
 
