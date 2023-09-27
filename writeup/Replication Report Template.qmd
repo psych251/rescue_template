@@ -25,6 +25,10 @@ Based on the prior write-up, describe any differences between the original and 1
 
 Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
 
+How much power does your planned sample have for original effect? For an attenuated effect that is half the size of the original? 
+
+(If power analysis is not possible or precise, discuss more fully how you determined a sample size that would be sufficient for rescue.)
+
 ### Planned Sample
 
 Planned sample size and/or termination rule, sampling frame, known demographics if any, preselection rules if any.
@@ -90,7 +94,7 @@ How did people perform on any quality control checks or positive and negative co
 
 The analyses as specified in the analysis plan.  
 
-*Side-by-side graph with original graph is ideal here*
+*Three-panel graph with original, 1st replication, and your replication is ideal here*
 
 ### Exploratory analyses
 
